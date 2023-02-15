@@ -17,5 +17,4 @@ https://github.com/MohammedAfrid126/i-Educate
 
 
 ## Tech Stack
-
 HTML, CSS and JS.
